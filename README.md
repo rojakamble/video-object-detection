@@ -18,3 +18,5 @@ Project Scope
 •	Custom object detection
 •	Video length of short to medium length is preferable 
 
+**TO DO - Update the readme file with run commands**
+
